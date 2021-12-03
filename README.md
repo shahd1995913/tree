@@ -26,7 +26,7 @@ mean 8 itreations <h1 style="color: orange; opacity: 0.80;"> Breadth First Searc
 1. In order traversal
 2. Pre order traversal
 3. post order traversal
-[Delete Node in tree vidue](https://www.youtube.com/watch?v=JnrbMQyGLiU)
-[Delete task](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/9_Binary_Tree_2/9_binary_tree_part_2_exercise.md)
-[tree min , max , post ,pre order in Binary tree search  task](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/8_Binary_Tree_1/8_binary_tree_part_1_exercise.md)
+- [Delete Node in tree vidue](https://www.youtube.com/watch?v=JnrbMQyGLiU)
+- [Delete task](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/9_Binary_Tree_2/9_binary_tree_part_2_exercise.md)
+- [tree min , max , post ,pre order in Binary tree search  task](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/8_Binary_Tree_1/8_binary_tree_part_1_exercise.md)
 ![tree](tree.png)
