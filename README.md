@@ -23,7 +23,7 @@ mean 8 itreations <h1 style="color: orange; opacity: 0.80;"> Breadth First Searc
 <h1 style="color: green; opacity: 0.90;"> Depth First Search  </strong>
 
 1. In order traversal
-2. Pre order traversal
+2. Pre order traversal  -- dfs 
 3. post order traversal
 
 - <a href="https://www.youtube.com/watch?v=JnrbMQyGLiU">Delete Node in tree vidue-- link</a>
@@ -31,3 +31,6 @@ mean 8 itreations <h1 style="color: orange; opacity: 0.80;"> Breadth First Searc
 - <a href="https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/9_Binary_Tree_2/9_binary_tree_part_2_exercise.md">Delete task--link</a>
 
 ![tree](tree.png)
+
+
+1. Level-order Traversal (BFS)

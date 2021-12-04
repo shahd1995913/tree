@@ -90,6 +90,9 @@ class BinaryTreeNode:
         left_sum=self.left.sum_tree() if self.left else 0
         right_sum =self.right.sum_tree() if self.right else 0
         return self.data +left_sum+ right_sum
+
+
+
     def post_order(self):
         element=[]
         if self.left:
@@ -129,6 +132,7 @@ if __name__=="__main__":
     print("sum all node value in tree ",num_tree.sum_tree())
     print("Post order tree",num_tree.post_order())
     print("Pre order tree",num_tree.pre_order())
+    print("sum of odd node ",num_tree.sum_odd())
 
 
 
